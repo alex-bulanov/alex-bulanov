@@ -19,6 +19,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.windicss.org/" target="_blank" style="margin: 0 10px;"><img src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" width="40" height="40" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
+<a href="https://bulma.io" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://api.iconify.design/logos:bulma.svg" width="40" height="40" alt="Bootstrap" /></a>
 <a href="https://gsap.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://api.iconify.design/logos:greensock-icon.svg" width="40" height="40" alt="GSAP" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="40" height="40" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" /></a>
